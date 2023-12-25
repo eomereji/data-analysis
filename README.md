@@ -1,2 +1,2 @@
-# R
-This repository contains projects and related content to R programming
+# Data Analysis
+This repository contains projects and related content to Data Analysis and Visualisations
